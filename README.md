@@ -1,6 +1,6 @@
 # Drone-Face-Tracking
 
-[![Watch Video](https://github.com/murtazahassan/Tello-Object-Tracking/blob/master/Programming%20Drone.jpg)](https://www.youtube.com/playlist?list=PLMoSUbG1Q_r8ib2U4AbC_mPTsa-u9HoP_)
+[![Watch Video](https://github.com/murtazahassan/Drone-Face-Tracking/blob/master/tumbnail%20(2).jpg)](https://www.youtube.com/playlist?list=PLMoSUbG1Q_r8ib2U4AbC_mPTsa-u9HoP_)
 
 In this video we will learn  how to program a drone to move around using python. We will also learn how to get the camera feed from this drone and run OpenCV functions on it . As an example we will detect  a face and make the drone follow it around. 
 
